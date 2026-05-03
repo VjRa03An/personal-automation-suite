@@ -1,0 +1,513 @@
+
+launchctl list | grep job
+
+============================================================
+  Job Curation Agent — Wednesday, April 29 2026
+============================================================
+
+[22:47:09] Seen DB: 70 jobs on record
+
+[22:47:09] Scraping sources...
+[22:47:09]   LinkedIn → Director Technical Program Manager
+[22:47:09]      → 10 jobs extracted
+[22:47:11]   LinkedIn → Director PMO
+[22:47:11]      → 10 jobs extracted
+[22:47:13]   LinkedIn → Director Program Management
+[22:47:13]      → 10 jobs extracted
+[22:47:15]   LinkedIn → Chief of Staff Engineering
+[22:47:15]      → 10 jobs extracted
+[22:47:17]   LinkedIn → Chief of Staff RD
+[22:47:17]      → 10 jobs extracted
+[22:47:19]   LinkedIn → Director Product Operations
+[22:47:19]      → 10 jobs extracted
+[22:47:21]   LinkedIn → VP Technical Program Management
+[22:47:22]      → 4 jobs extracted
+[22:47:23]   LinkedIn → Head of Engineering Operations
+[22:47:24]      → 10 jobs extracted
+[22:47:25]   LinkedIn → Director Technical Delivery
+[22:47:26]      → 10 jobs extracted
+[22:47:27]   LinkedIn → Director TPMO
+[22:47:28]      → 10 jobs extracted
+[22:47:29]   LinkedIn total: 94 jobs
+[22:47:29]   WWR → Management & Finance
+[22:47:30]   WWR → Senior Executive
+[22:47:31]   WWR → Operations
+[22:47:32]   Remotive → management
+[22:47:32]   Jobicy → Director TPM
+[22:47:33]   Jobicy → Director PMO
+[22:47:34]   Jobicy → Chief of Staff Eng
+[22:47:34]   Jobicy → Director Product Ops
+[22:47:35] 
+Raw total: 136
+[22:47:35] After filter+dedup: 21
+[22:47:35] New: 0  |  Reposted: 21
+
+[22:47:35] No new jobs to score today.
+[22:47:35] Appended 21 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 0
+  REPOSTED good matches:      18
+============================================================
+
+[22:47:38] Email sent → csvenky@gmail.com
+[22:47:38] Run complete.
+
+
+============================================================
+  Job Curation Agent — Thursday, April 30 2026
+============================================================
+
+[08:08:54] Seen DB: 70 jobs on record
+
+[08:08:54] Scraping sources...
+[08:08:54]   LinkedIn → Director Technical Program Manager
+[08:09:24]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Technical%20Program%20Manager&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:09:26]   LinkedIn → Director PMO
+[08:25:24]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20PMO&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:25:26]   LinkedIn → Director Program Management
+[08:25:56]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Program%20Management&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:41:45]   LinkedIn → Chief of Staff Engineering
+[08:42:15]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Chief%20of%20Staff%20Engineering&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:42:17]   LinkedIn → Chief of Staff RD
+[08:42:47]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Chief%20of%20Staff%20RD&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:42:48]   LinkedIn → Director Product Operations
+[08:43:18]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Product%20Operations&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:43:20]   LinkedIn → VP Technical Program Management
+[08:43:50]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=VP%20Technical%20Program%20Management&location=United%20States&f_E=5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:43:52]   LinkedIn → Head of Engineering Operations
+[08:44:22]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Head%20of%20Engineering%20Operations&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:44:23]   LinkedIn → Director Technical Delivery
+[08:44:53]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Technical%20Delivery&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:44:55]   LinkedIn → Director TPMO
+[08:45:25]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20TPMO&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:45:27]   LinkedIn total: 0 jobs
+[08:45:27]   WWR → Management & Finance
+[08:45:57]   WWR → Senior Executive
+[08:46:28]   WWR → Operations
+[08:46:58]   Remotive → management
+[09:03:48]      ✗ HTTPSConnectionPool(host='remotive.com', port=443): Max retries exceeded with url: /api/remote-jobs?category=management&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='remotive.com', port=443): Failed to resolve 'remotive.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[09:03:48]   Jobicy → Director TPM
+[09:04:18]   Jobicy → Director PMO
+[09:20:48]   Jobicy → Chief of Staff Eng
+[09:36:27]   Jobicy → Director Product Ops
+[09:36:57] 
+Raw total: 0
+[09:36:57] After filter+dedup: 0
+[09:36:57] New: 0  |  Reposted: 0
+
+[09:36:57] No new jobs to score today.
+[09:36:57] Appended 0 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 0
+  REPOSTED good matches:      0
+============================================================
+
+[09:49:34] Email error: [Errno 8] nodename nor servname provided, or not known
+[09:49:34] Run complete.
+
+
+============================================================
+  Job Curation Agent — Friday, May 01 2026
+============================================================
+
+[08:11:23] Seen DB: 70 jobs on record
+
+[08:11:23] Scraping sources...
+[08:11:23]   LinkedIn → Director Technical Program Manager
+[08:11:27]      → 10 jobs extracted
+[08:11:29]   LinkedIn → Director PMO
+[08:11:29]      → 10 jobs extracted
+[08:11:31]   LinkedIn → Director Program Management
+[08:11:32]      → 9 jobs extracted
+[08:11:33]   LinkedIn → Chief of Staff Engineering
+[08:11:34]      → 10 jobs extracted
+[08:11:35]   LinkedIn → Chief of Staff RD
+[08:11:36]      → 10 jobs extracted
+[08:11:37]   LinkedIn → Director Product Operations
+[08:11:38]      → 10 jobs extracted
+[08:11:39]   LinkedIn → VP Technical Program Management
+[08:11:40]      → 7 jobs extracted
+[08:11:41]   LinkedIn → Head of Engineering Operations
+[08:11:42]      → 10 jobs extracted
+[08:11:44]   LinkedIn → Director Technical Delivery
+[08:11:44]      → 10 jobs extracted
+[08:11:46]   LinkedIn → Director TPMO
+[08:11:47]      → 10 jobs extracted
+[08:11:48]   LinkedIn total: 96 jobs
+[08:11:48]   WWR → Management & Finance
+[08:11:50]   WWR → Senior Executive
+[08:11:51]   WWR → Operations
+[08:11:52]   Remotive → management
+[08:11:52]   Jobicy → Director TPM
+[08:11:53]   Jobicy → Director PMO
+[08:11:54]   Jobicy → Chief of Staff Eng
+[08:11:55]   Jobicy → Director Product Ops
+[08:11:56] 
+Raw total: 137
+[08:11:56] After filter+dedup: 22
+[08:11:56] New: 22  |  Reposted: 0
+
+[08:11:56] Scoring 22 new jobs with Claude...
+
+[08:11:56] [1/22] Sr. Manager, Technical Programs @ Verkada
+[08:11:58]         7/10 — Sr. Manager is one level below target Director roles, but Technical Programs at a mid-size
+[08:11:59] [2/22] Senior Program Manager @ The Panther Group
+[08:12:01]         6/10 — Senior Program Manager is an adjacent senior delivery role but likely a step below the Dir
+[08:12:02] [3/22] Senior Program Manager @ Lumicity
+[08:12:05]         6/10 — Senior Program Manager is a step below target Director-level roles, but still a relevant s
+[08:12:05] [4/22] Senior Technical Program Manager, Product @ Lyft
+[08:12:07]         6/10 — Senior TPM at Lyft is a strong company match and relevant function, but title suggests sen
+[08:12:07] [5/22] Senior Manager, Strategic Initiatives & PMO @ American Express
+[08:12:10]         8/10 — Senior Manager Strategic Initiatives & PMO at a large enterprise closely aligns with candi
+[08:12:10] [6/22] Senior Program Manager @ Veterans Sourcing Group, 
+[08:12:13]         6/10 — Senior Program Manager is a relevant adjacent role in technical delivery, but the title su
+[08:12:13] [7/22] Senior Program Manager @ SoTalent
+[08:12:16]         6/10 — Senior Program Manager is a relevant program management role but likely below the Director
+[08:12:16] [8/22] Associate Director, Program Management @ FUJIFILM Biotechnologies
+[08:12:20]         8/10 — Associate Director Program Management title aligns well with candidate's target Director P
+[08:12:20] [9/22] Associate Director, Program Management Lead, Global Onc @ Takeda
+[08:12:23]         8/10 — Associate Director Program Management at a large enterprise (Takeda) aligns well with cand
+[08:12:23] [10/22] Director, Program Management Immunology -Full Life Cycl @ Monte Rosa Therapeutics
+[08:32:10]         6/10 — Director-level program management title aligns with target roles, but 'Immunology - Full L
+[08:32:10] [11/22] Director Drug Development Program Management @ BioSpace
+[08:32:13]         7/10 — Director-level program management role aligns with candidate's TPM/PMO leadership experien
+[08:32:14] [12/22] Therapy Program Manager (TPM) / Director of Rehab (DOR) @ OVATION Rehabilitation Se
+[08:32:16]         1/10 — Healthcare/therapy rehabilitation role completely unrelated to technical program managemen
+[08:32:17] [13/22] Chief of Staff to CEO (Fashion) @ JW Michaels & Co.
+[08:32:19]         5/10 — Chief of Staff title aligns with target roles, but reporting to CEO rather than R&D/Engine
+[08:32:19] [14/22] Chief of Staff @ Tews Company
+[08:32:21]         7/10 — Chief of Staff title aligns with candidate's target roles, but without confirmation it's R
+[08:32:22] [15/22] Chief of Staff @ Fabletics
+[08:32:25]         7/10 — Chief of Staff title aligns with candidate's target roles, but without R&D/Engineering spe
+[08:32:25] [16/22] Chief of Staff @ Atlas Search
+[08:32:28]         7/10 — Chief of Staff title aligns with candidate's target roles, but without job details and giv
+[08:32:28] [17/22] Chief of Staff @ Respan
+[08:32:31]         8/10 — Chief of Staff role aligns with candidate's target list, particularly Chief of Staff R&D/E
+[08:32:32] [18/22] Chief of Staff (Fractional) @ Seygan
+[08:32:35]         7/10 — Chief of Staff title aligns with candidate's target roles, but 'Fractional' indicates part
+[08:32:35] [19/22] Chief of Staff @ Radiant
+[08:32:37]         8/10 — Chief of Staff role directly matches candidate's target list, likely involving cross-funct
+[08:32:37] [20/22] Director, Supply Chain Planning and Capital Chief of St @ WD
+[08:32:40]         5/10 — Chief of Staff element aligns with target roles, but Supply Chain Planning and Capital foc
+[08:32:40] [21/22] Chief of Staff - Oracle Health @ Oracle
+[08:32:43]         8/10 — Chief of Staff role in R&D/Engineering context at Oracle Health aligns well with candidate
+[08:32:44] [22/22] Chief of Staff to the Chief Customer Officer @ Anaplan
+[08:32:46]         6/10 — Chief of Staff role aligns with candidate's experience and target titles, but reporting to
+[08:32:47] Appended 22 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 19
+  REPOSTED good matches:      0
+============================================================
+
+  [NEW 8/10] Senior Manager, Strategic Initiatives & PMO
+    American Express · LinkedIn · New York, NY
+    Senior Manager Strategic Initiatives & PMO at a large enterprise closely aligns with candidate's PMO leadership experience, governance expertise, and target roles, though title is slightly below Director level.
+
+  [NEW 8/10] Associate Director, Program Management
+    FUJIFILM Biotechnologies · LinkedIn · College Station, TX
+    Associate Director Program Management title aligns well with candidate's target Director PMO/TPM roles, though biotech industry and mid-size company fit is uncertain without full job description.
+
+  [NEW 8/10] Associate Director, Program Management Lead, Global Oncology Business Unit
+    Takeda · LinkedIn · Boston, MA
+    Associate Director Program Management at a large enterprise (Takeda) aligns well with candidate's Director-level TPM/PMO target, though pharma/oncology domain differs from their SaaS/tech background.
+
+  [NEW 8/10] Chief of Staff
+    Respan · LinkedIn · San Francisco Bay Area
+    Chief of Staff role aligns with candidate's target list, particularly Chief of Staff R&D/Engineering, and their extensive experience in executive-level program management and cross-functional governance at scale.
+
+  [NEW 8/10] Chief of Staff
+    Radiant · LinkedIn · Washington, DC
+    Chief of Staff role directly matches candidate's target list, likely involving cross-functional governance and executive-level coordination aligned with their TPMO and stakeholder management experience.
+
+  [NEW 8/10] Chief of Staff - Oracle Health
+    Oracle · LinkedIn · United States
+    Chief of Staff role in R&D/Engineering context at Oracle Health aligns well with candidate's target roles, enterprise governance experience, and transformation leadership background, though healthcare domain and exact scope are unknown without full description.
+
+  [NEW 7/10] Sr. Manager, Technical Programs
+    Verkada · LinkedIn · San Mateo, CA
+    Sr. Manager is one level below target Director roles, but Technical Programs at a mid-size security tech company (Verkada ~1,500 employees) aligns well with TPM expertise and could be a strategic fit worth reviewing.
+
+  [NEW 7/10] Director Drug Development Program Management
+    BioSpace · LinkedIn · Tarrytown, NY
+    Director-level program management role aligns with candidate's TPM/PMO leadership experience, though drug development in biotech/pharma is a different domain than their SaaS/tech background, making it a decent but not ideal match.
+
+  [NEW 7/10] Chief of Staff
+    Tews Company · LinkedIn · Orlando, FL
+    Chief of Staff title aligns with candidate's target roles, but without confirmation it's R&D/Engineering focused and given company details are unavailable, it may be a general business CoS rather than technical leadership.
+
+  [NEW 7/10] Chief of Staff
+    Fabletics · LinkedIn · El Segundo, CA
+    Chief of Staff title aligns with candidate's target roles, but without R&D/Engineering specification and Fabletics being a retail/e-commerce company rather than a tech platform, it may lean more toward general business operations than technical program leadership.
+
+  [NEW 7/10] Chief of Staff
+    Atlas Search · LinkedIn · New York, NY
+    Chief of Staff title aligns with candidate's target roles, but without job details and given Atlas Search is a recruiting firm (likely placing for a client), the actual scope and R&D/Engineering focus cannot be confirmed.
+
+  [NEW 7/10] Chief of Staff (Fractional)
+    Seygan · LinkedIn · United States
+    Chief of Staff title aligns with candidate's target roles, but 'Fractional' indicates part-time/contract work which may not match the Director-level permanent position preference, and limited company info prevents confirming R&D/Engineering focus.
+
+  [NEW 6/10] Senior Program Manager
+    The Panther Group · LinkedIn · United States
+    Senior Program Manager is an adjacent senior delivery role but likely a step below the Director-level positions the candidate is targeting, though worth reviewing given program management alignment.
+
+  [NEW 6/10] Senior Program Manager
+    Lumicity · LinkedIn · New York, United States
+    Senior Program Manager is a step below target Director-level roles, but still a relevant senior delivery/program position worth reviewing given the TPM alignment, though title suggests IC rather than leadership.
+
+  [NEW 6/10] Senior Technical Program Manager, Product
+    Lyft · LinkedIn · San Francisco County, CA
+    Senior TPM at Lyft is a strong company match and relevant function, but title suggests senior IC level rather than the Director-level leadership role the candidate is targeting.
+
+  [NEW 6/10] Senior Program Manager
+    Veterans Sourcing Group, LLC · LinkedIn · United States
+    Senior Program Manager is a relevant adjacent role in technical delivery, but the title suggests an IC-level position rather than the Director-level leadership roles the candidate is targeting.
+
+  [NEW 6/10] Senior Program Manager
+    SoTalent · LinkedIn · Berkeley, CA
+    Senior Program Manager is a relevant program management role but likely below the Director-level target, though worth reviewing if it has leadership scope at a growing company.
+
+  [NEW 6/10] Director, Program Management Immunology -Full Life Cycle
+    Monte Rosa Therapeutics · LinkedIn · Boston, MA
+    Director-level program management title aligns with target roles, but 'Immunology - Full Life Cycle' suggests pharmaceutical/biotech drug development program management rather than technical/software TPM, which may require domain-specific clinical trial experience the candidate lacks.
+
+  [NEW 6/10] Chief of Staff to the Chief Customer Officer
+    Anaplan · LinkedIn · New York, NY
+    Chief of Staff role aligns with candidate's experience and target titles, but reporting to Chief Customer Officer (customer/sales-focused) rather than R&D/Engineering leadership makes this adjacent rather than a strong match.
+
+[08:32:48] Email sent → csvenky@gmail.com
+[08:32:48] Run complete.
+
+
+============================================================
+  Job Curation Agent — Friday, May 01 2026
+============================================================
+
+[09:20:33] Seen DB: 93 jobs on record
+
+[09:20:33] Scraping sources...
+[09:20:33]   LinkedIn → Director Technical Program Manager
+[09:20:33]      → 10 jobs extracted
+[09:20:35]   LinkedIn → Director PMO
+[09:20:35]      → 10 jobs extracted
+[09:20:37]   LinkedIn → Director Program Management
+[09:20:38]      → 9 jobs extracted
+[09:20:39]   LinkedIn → Chief of Staff Engineering
+[09:20:40]      → 10 jobs extracted
+[09:20:41]   LinkedIn → Chief of Staff RD
+[09:20:42]      → 10 jobs extracted
+[09:20:43]   LinkedIn → Director Product Operations
+[09:20:44]      → 10 jobs extracted
+[09:20:46]   LinkedIn → VP Technical Program Management
+[09:20:46]      → 7 jobs extracted
+[09:20:48]   LinkedIn → Head of Engineering Operations
+[09:20:48]      → 10 jobs extracted
+[09:20:50]   LinkedIn → Director Technical Delivery
+[09:20:50]      → 10 jobs extracted
+[09:20:52]   LinkedIn → Director TPMO
+[09:20:52]      → 10 jobs extracted
+[09:20:54]   LinkedIn total: 96 jobs
+[09:20:54]   WWR → Management & Finance
+[09:20:55]   WWR → Senior Executive
+[09:20:56]   WWR → Operations
+[09:20:57]   Remotive → management
+[09:20:57]   Jobicy → Director TPM
+[09:20:58]   Jobicy → Director PMO
+[09:20:59]   Jobicy → Chief of Staff Eng
+[09:20:59]   Jobicy → Director Product Ops
+[09:21:00] 
+Raw total: 137
+[09:21:00] After filter+dedup: 20
+[09:21:00] New: 1  |  Reposted: 19
+
+[09:21:00] Scoring 1 new jobs with Claude...
+
+[09:21:00] [1/1] Chief of Staff @ Crusoe
+[09:21:03]         8/10 — Chief of Staff role at a tech company aligns well with candidate's target roles, particula
+[09:21:03] Appended 20 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 1
+  REPOSTED good matches:      16
+============================================================
+
+  [NEW 8/10] Chief of Staff
+    Crusoe · LinkedIn · San Francisco, CA
+    Chief of Staff role at a tech company aligns well with candidate's target roles, particularly Chief of Staff R&D/Engineering, and their strong background in cross-functional governance, stakeholder management, and transformation leadership at director level.
+
+[09:21:05] Email sent → csvenky@gmail.com
+[09:21:05] Run complete.
+
+
+============================================================
+  Job Curation Agent — Saturday, May 02 2026
+============================================================
+
+[08:11:11] Seen DB: 94 jobs on record
+
+[08:11:11] Scraping sources...
+[08:11:11]   LinkedIn → Director Technical Program Manager
+[08:11:41]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Technical%20Program%20Manager&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:11:43]   LinkedIn → Director PMO
+[08:27:32]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20PMO&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:27:33]   LinkedIn → Director Program Management
+[08:28:03]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Program%20Management&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:44:21]   LinkedIn → Chief of Staff Engineering
+[08:44:51]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Chief%20of%20Staff%20Engineering&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:44:53]   LinkedIn → Chief of Staff RD
+[08:45:23]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Chief%20of%20Staff%20RD&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:45:24]   LinkedIn → Director Product Operations
+[08:45:54]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Product%20Operations&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:45:56]   LinkedIn → VP Technical Program Management
+[08:46:26]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=VP%20Technical%20Program%20Management&location=United%20States&f_E=5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:46:28]   LinkedIn → Head of Engineering Operations
+[08:46:58]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Head%20of%20Engineering%20Operations&location=United%20States&f_E=4,5&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:46:59]   LinkedIn → Director Technical Delivery
+[08:47:29]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20Technical%20Delivery&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:47:31]   LinkedIn → Director TPMO
+[08:48:01]      ✗ HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Director%20TPMO&location=United%20States&f_E=4&f_TPR=r86400&start=0 (Caused by NameResolutionError("HTTPSConnection(host='www.linkedin.com', port=443): Failed to resolve 'www.linkedin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[08:48:02]   LinkedIn total: 0 jobs
+[08:48:02]   WWR → Management & Finance
+[08:48:33]   WWR → Senior Executive
+[08:49:04]   WWR → Operations
+[08:49:34]   Remotive → management
+[09:05:41]      ✗ HTTPSConnectionPool(host='remotive.com', port=443): Max retries exceeded with url: /api/remote-jobs?category=management&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='remotive.com', port=443): Failed to resolve 'remotive.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[09:05:41]   Jobicy → Director TPM
+[09:06:11]   Jobicy → Director PMO
+[09:22:21]   Jobicy → Chief of Staff Eng
+[09:38:01]   Jobicy → Director Product Ops
+[09:38:32] 
+Raw total: 0
+[09:38:32] After filter+dedup: 0
+[09:38:32] New: 0  |  Reposted: 0
+
+[09:38:32] No new jobs to score today.
+[09:38:32] Appended 0 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 0
+  REPOSTED good matches:      0
+============================================================
+
+[09:54:06] Email error: [Errno 8] nodename nor servname provided, or not known
+[09:54:06] Run complete.
+
+
+============================================================
+  Job Curation Agent — Saturday, May 02 2026
+============================================================
+
+[09:59:57] Seen DB: 94 jobs on record
+
+[09:59:57] Scraping sources...
+[09:59:57]   LinkedIn → Director Technical Program Manager
+[09:59:58]      → 10 jobs extracted
+[09:59:59]   LinkedIn → Director PMO
+[10:00:00]      → 10 jobs extracted
+[10:00:02]   LinkedIn → Director Program Management
+[10:00:02]      → 10 jobs extracted
+[10:00:04]   LinkedIn → Chief of Staff Engineering
+[10:00:04]      → 10 jobs extracted
+[10:00:06]   LinkedIn → Chief of Staff RD
+[10:00:06]      → 10 jobs extracted
+[10:00:08]   LinkedIn → Director Product Operations
+[10:00:08]      → 10 jobs extracted
+[10:00:10]   LinkedIn → VP Technical Program Management
+[10:00:10]      → 2 jobs extracted
+[10:00:12]   LinkedIn → Head of Engineering Operations
+[10:00:12]      → 10 jobs extracted
+[10:00:14]   LinkedIn → Director Technical Delivery
+[10:00:14]      → 10 jobs extracted
+[10:00:16]   LinkedIn → Director TPMO
+[10:00:16]      → 10 jobs extracted
+[10:00:18]   LinkedIn total: 92 jobs
+[10:00:18]   WWR → Management & Finance
+[10:00:19]   WWR → Senior Executive
+[10:00:20]   WWR → Operations
+[10:00:21]   Remotive → management
+[10:00:21]   Jobicy → Director TPM
+[10:00:22]   Jobicy → Director PMO
+[10:00:22]   Jobicy → Chief of Staff Eng
+[10:00:23]   Jobicy → Director Product Ops
+[10:00:24] 
+Raw total: 136
+[10:00:24] After filter+dedup: 11
+[10:00:24] New: 11  |  Reposted: 0
+
+[10:00:24] Scoring 11 new jobs with Claude...
+
+[10:00:24] [1/11] Senior Program Manager @ Optomi
+[10:00:27]         6/10 — Senior Program Manager is a relevant program management role but likely below the Director
+[10:00:27] [2/11] Senior Technical Program Manager @ DynPro Inc.
+[10:00:29]         6/10 — Senior TPM role aligns with candidate's expertise but is likely an individual contributor 
+[10:00:30] [3/11] Senior Program Manager, SaMD @ WHOOP
+[10:00:33]         6/10 — Senior Program Manager at a mid-size tech company (WHOOP ~500-1000 employees) is a relevan
+[10:00:33] [4/11] Senior Program Manager (Tooling) @ CapstoneONE Search
+[10:00:35]         6/10 — Senior Program Manager is a relevant adjacent role in program/delivery management, but the
+[10:00:35] [5/11] Senior Program Manager @ CONFLUX SYSTEMS
+[10:00:38]         6/10 — Senior Program Manager is a relevant program management role but appears to be individual 
+[10:00:38] [6/11] Program Management Program Director @ Sevita
+[10:00:40]         7/10 — Title 'Program Management Program Director' aligns well with target Director-level program
+[10:00:40] [7/11] Director, PMO @ Landis+Gyr
+[10:00:43]         9/10 — Director PMO title is an exact match to candidate's target roles, with their extensive PMO
+[10:00:43] [8/11] Securities Services - Portfolio and Program Management  @ JPMorganChase
+[10:00:46]         7/10 — VP-level Portfolio and Program Management aligns well with candidate's PMO and governance 
+[10:00:46] [9/11] Chief of Staff @ MGT
+[10:00:49]         7/10 — Chief of Staff title aligns well with candidate's target roles (Chief of Staff R&D/Enginee
+[10:00:50] [10/11] Chief of Staff to the CEO — Builder-Orchestrator @ Product.ai
+[10:00:52]         7/10 — Chief of Staff role aligns with candidate's cross-functional governance and stakeholder ma
+[10:00:52] [11/11] Chief of Staff-Probation @ County of San Diego
+[10:00:55]         2/10 — Chief of Staff-Probation is a government criminal justice/corrections role in a county pro
+[10:00:55] Appended 11 rows to /Users/jv/all_jobs_log.csv
+
+============================================================
+  NEW good matches (6+): 10
+  REPOSTED good matches:      0
+============================================================
+
+  [NEW 9/10] Director, PMO
+    Landis+Gyr · LinkedIn · Alpharetta, GA
+    Director PMO title is an exact match to candidate's target roles, with their extensive PMO executive experience at similar scale companies making this a strong fit despite limited job details.
+
+  [NEW 7/10] Program Management Program Director
+    Sevita · LinkedIn · Las Vegas, NV
+    Title 'Program Management Program Director' aligns well with target Director-level program management roles, but Sevita is a healthcare services company (not SaaS/tech), so the technical platform and R&D portfolio experience may not fully transfer.
+
+  [NEW 7/10] Securities Services - Portfolio and Program Management – Vice President
+    JPMorganChase · LinkedIn · New York, NY
+    VP-level Portfolio and Program Management aligns well with candidate's PMO and governance expertise, though Securities Services at JPMorganChase suggests a finance-domain focus rather than technical/R&D program management, making it adjacent but worth reviewing.
+
+  [NEW 7/10] Chief of Staff
+    MGT · LinkedIn · United States
+    Chief of Staff title aligns well with candidate's target roles (Chief of Staff R&D/Engineering), but without job description details, it's unclear if this is R&D/Engineering focused or a general corporate Chief of Staff role, and MGT company context is unknown.
+
+  [NEW 7/10] Chief of Staff to the CEO — Builder-Orchestrator
+    Product.ai · LinkedIn · Los Angeles, CA
+    Chief of Staff role aligns with candidate's cross-functional governance and stakeholder management strengths, but reporting to CEO rather than R&D/Engineering leadership and lack of explicit TPM/PMO focus makes it adjacent rather than a strong match.
+
+  [NEW 6/10] Senior Program Manager
+    Optomi · LinkedIn · United States
+    Senior Program Manager is a relevant program management role but likely below the Director-level target; worth reviewing but may be too junior for this candidate's experience.
+
+  [NEW 6/10] Senior Technical Program Manager
+    DynPro Inc. · LinkedIn · United States
+    Senior TPM role aligns with candidate's expertise but is likely an individual contributor position, one level below their Director-level target; worth reviewing if it has leadership scope.
+
+  [NEW 6/10] Senior Program Manager, SaMD
+    WHOOP · LinkedIn · Boston, MA
+    Senior Program Manager at a mid-size tech company (WHOOP ~500-1000 employees) is a relevant program management role, but the 'Senior' title suggests it may be below Director-level and potentially more IC-oriented than the candidate's target, though SaMD (Software as Medical Device) aligns with technical delivery experience.
+
+  [NEW 6/10] Senior Program Manager (Tooling)
+    CapstoneONE Search · LinkedIn · Muskegon, MI
+    Senior Program Manager is a relevant adjacent role in program/delivery management, but the title suggests individual contributor level rather than the Director-level leadership position the candidate is targeting.
+
+  [NEW 6/10] Senior Program Manager
+    CONFLUX SYSTEMS · LinkedIn · Atlanta, GA
+    Senior Program Manager is a relevant program management role but appears to be individual contributor level rather than the Director/VP level the candidate is targeting, though worth reviewing given the technical program alignment.
+
+[10:00:57] Email sent → csvenky@gmail.com
+[10:00:57] Run complete.
+
