@@ -32,7 +32,7 @@ jobs:
           ALERT_THRESHOLD:   "94"
           SMTP_HOST:         "smtp.gmail.com"
           SMTP_PORT:         "587"
-        run: python scripts/send_digest.py
+        run: python forex-agent/scripts/send_digest.py
 
       - name: Save rate log
         if: always()
