@@ -1,0 +1,43 @@
+name: ForexWatch Daily Digest
+
+on:
+  schedule:
+    - cron: '30 2 * * *'   # 2:30 AM UTC = 8:00 AM IST every day
+  workflow_dispatch:        # lets you click "Run" manually to test it
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Run ForexWatch agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DIGEST_EMAIL:      ${{ secrets.DIGEST_EMAIL }}
+          SMTP_USER:         ${{ secrets.SMTP_USER }}
+          SMTP_PASS:         ${{ secrets.SMTP_PASS }}
+          TRANSFER_AMOUNT:   "1000"
+          ALERT_THRESHOLD:   "94"
+          SMTP_HOST:         "smtp.gmail.com"
+          SMTP_PORT:         "587"
+        run: python scripts/send_digest.py
+
+      - name: Save rate log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rate-log-${{ github.run_id }}
+          path: logs/
+          retention-days: 30
