@@ -1,0 +1,30 @@
+name: Daily Job Digest
+
+on:
+  schedule:
+    - cron: '0 15 * * 1-5'  # 8am PT, weekdays
+  workflow_dispatch:
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r gmail-cleanup/requirements.txt
+
+      - name: Run job digest
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
+          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+          GMAIL_CREDENTIALS_JSON: ${{ secrets.GMAIL_CREDENTIALS_JSON }}
+        run: |
+          cd gmail-cleanup
+          python job_digest.py
