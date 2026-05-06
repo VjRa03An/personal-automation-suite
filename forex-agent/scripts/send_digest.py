@@ -42,22 +42,18 @@ RATE_MAX  = 120.0
 MIN_PROVIDERS = 3  # refuse to send if fewer than this come back
 
 SYSTEM_PROMPT = """You are a forex rate intelligence agent.
-Search for current USD to INR exchange rates from:
-JPMorgan Chase (wire), Bank of America (intl wire), Wise, Remitly, Western Union, PayPal/Xoom, SBI Remit.
+Search for the current USD to INR mid-market (interbank) exchange rate from
+sources like XE.com, Google Finance, Reuters, or Bloomberg.
 
 Return ONLY valid JSON (no markdown, no preamble):
 {
   "date": "YYYY-MM-DD",
   "rates": [
-    {"provider": "JPMorgan Chase",  "rate": 83.50, "fee_note": "wire, $35 fee"},
-    {"provider": "Bank of America", "rate": 83.20, "fee_note": "intl wire, $35 fee"},
-    {"provider": "Wise",            "rate": 84.45, "fee_note": "0.6% fee included"},
-    {"provider": "Remitly",         "rate": 84.30, "fee_note": "express delivery"},
-    {"provider": "Western Union",   "rate": 84.05, "fee_note": "bank deposit"},
-    {"provider": "PayPal / Xoom",   "rate": 83.70, "fee_note": "instant to bank"},
-    {"provider": "SBI Remit",       "rate": 84.25, "fee_note": "no transfer fee"}
+    {"provider": "XE.com",       "rate": 95.10, "fee_note": "mid-market rate"},
+    {"provider": "Google Finance","rate": 95.12, "fee_note": "mid-market rate"},
+    {"provider": "Reuters",      "rate": 95.08, "fee_note": "mid-market rate"}
   ],
-  "analysis": "2-3 sentence comparison"
+  "analysis": "2-3 sentence summary of USD/INR rate and trend"
 }"""
 
 # ── FIX #5 — validate email using Python's own parser ────────────────────────
