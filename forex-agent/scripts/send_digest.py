@@ -110,12 +110,12 @@ def fetch_rates() -> dict:
 
     response = client.messages.create(
         model="claude-sonnet-4-5",
-        max_tokens=1000,
+        max_tokens=2000,
         tools=[{"type": "web_search_20260209", "name": "web_search"}],
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
-            "content": "Fetch current USD to INR rates for all 7 providers. JSON only."
+            "content": "Fetch the current USD to INR mid-market rate. Return JSON only, no markdown."
         }]
     )
 
