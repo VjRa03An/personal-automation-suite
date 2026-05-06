@@ -123,9 +123,10 @@ def fetch_rates() -> dict:
         }]
     )
 
-    raw_text = "".join(
-        b.text for b in response.content if hasattr(b, "text")
-    )
+    # web_search_20260209 returns server_tool_use/tool_result blocks;
+    # the final answer is always in the last text block.
+    text_blocks = [b.text for b in response.content if hasattr(b, "text") and b.type == "text"]
+    raw_text = text_blocks[-1] if text_blocks else ""
     # Strip markdown fences if present
     clean = re.sub(r"```(?:json)?", "", raw_text).strip()
 
