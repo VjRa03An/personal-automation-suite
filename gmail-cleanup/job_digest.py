@@ -335,7 +335,17 @@ def run_digest(archive=True):
     print(f"  Found {len(messages)} job alert emails")
 
     if not messages:
-        print("  Nothing to digest today.")
+        print("  Nothing to digest today — sending confirmation email.")
+        html = f"""<!DOCTYPE html>
+<html><body style="font-family:-apple-system,sans-serif;max-width:600px;margin:0 auto;padding:20px;">
+  <div style="border-bottom:2px solid #1a1a1a;padding-bottom:12px;margin-bottom:16px;">
+    <h1 style="margin:0;font-size:20px;">📋 Job Alert Digest</h1>
+    <p style="margin:4px 0 0;font-size:13px;color:#666;">{date_str}</p>
+  </div>
+  <p style="font-size:15px;color:#444;">✅ Digest ran successfully — no new job alert emails in the last 24 hours.</p>
+  <p style="font-size:12px;color:#aaa;margin-top:24px;">personal-automation-suite · gmail-cleanup</p>
+</body></html>"""
+        send_digest_smtp(html, 0, date_str)
         return
 
     print("🔎 Parsing emails (full body for links)...")
