@@ -109,9 +109,9 @@ def fetch_rates() -> dict:
     print("[agent] Fetching USD→INR rates via Claude + web search…")
 
     response = client.messages.create(
-        model="claude-sonnet-4-5",
-        max_tokens=2000,
-        tools=[{"type": "web_search_20260209", "name": "web_search"}],
+        model="claude-haiku-4-5-20251001",
+        max_tokens=1000,
+        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 2}],
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
