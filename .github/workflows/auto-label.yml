@@ -1,0 +1,21 @@
+name: Quarterly Gmail Auto-Label & Archive
+
+on:
+  schedule:
+    - cron: '0 16 1 1,4,7,10 *'
+  workflow_dispatch:
+
+jobs:
+  auto-label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install google-auth google-auth-oauthlib google-api-python-client
+      - name: Write Gmail token
+        run: echo '${{ secrets.GMAIL_TOKEN_JSON }}' > gmail-cleanup/token.json
+      - name: Run auto-labeler
+        run: cd gmail-cleanup && python auto_label.py
