@@ -178,24 +178,25 @@ def main():
 
     service = authenticate()
 
-    # ── Mode 3: Empty Trash ───────────────────────────────────────────────────
-    if args.empty_trash:
-        print("🗑️  Emptying Gmail Trash...")
-trash_ids = get_all_ids(service, "in:trash")
-if trash_ids:
-    for i in range(0, len(trash_ids), 1000):
-        chunk = trash_ids[i:i+1000]
-        service.users().messages().batchDelete(userId="me", body={"ids": chunk}).execute()
-print(f"✅ {len(trash_ids)} emails permanently deleted.")
-        print("✅ Trash emptied. Storage will update within a few minutes.")
-        send_report(
-            DIGEST_EMAIL,
-            "🗑️ ForexWatch Gmail — Trash Emptied",
-            f"Gmail Trash has been permanently emptied on {datetime.date.today()}.\n\n"
-            f"Storage should update within a few minutes.\n\n"
-            f"Check: one.google.com/storage"
-        )
-        return
+# ── Mode 3: Empty Trash ───────────────────────────────────────────
+        if args.empty_trash:
+            print("🗑️  Emptying Gmail Trash...")
+            trash_ids = get_all_ids(service, "in:trash")
+            if trash_ids:
+                for i in range(0, len(trash_ids), 1000):
+                    chunk = trash_ids[i:i+1000]
+                    service.users().messages().batchDelete(
+                        userId="me", body={"ids": chunk}
+                    ).execute()
+            print(f"✅ {len(trash_ids)} emails permanently deleted.")
+            send_report(
+                DIGEST_EMAIL,
+                "🗑️ Gmail — Trash Emptied",
+                f"Gmail Trash permanently emptied on {datetime.date.today()}.\n\n"
+                f"Storage should update within a few minutes.\n\n"
+                f"Check: one.google.com/storage"
+            )
+            return
 
     # ── Scan: find all deletable emails ──────────────────────────────────────
     print(f"📂 Scanning for emails older than {DELETE_AFTER}...")
