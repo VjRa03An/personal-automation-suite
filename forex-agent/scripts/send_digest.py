@@ -111,7 +111,7 @@ def fetch_rates() -> dict:
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=1000,
-        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 2}],
+        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 2, "allowed_callers": ["direct"]}],
         system=SYSTEM_PROMPT,
         messages=[{
             "role": "user",
