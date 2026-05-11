@@ -4,7 +4,7 @@ from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
-TOKEN_PATH = os.path.expanduser("~/Downloads/gmail-cleanup/token.json")
+TOKEN_PATH = "token.json"
 ARCHIVE_BEFORE = (datetime.now() - timedelta(days=30)).strftime("%Y/%m/%d")
 KEEP_AFTER = (datetime.now() - timedelta(days=30)).strftime("%Y/%m/%d")
 
