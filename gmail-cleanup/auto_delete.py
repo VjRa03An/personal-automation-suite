@@ -181,7 +181,7 @@ def main():
     # ── Mode 3: Empty Trash ───────────────────────────────────────────────────
     if args.empty_trash:
         print("🗑️  Emptying Gmail Trash...")
-        service.users().messages().empty_trash(userId="me").execute()
+        service.users().trash().empty(userId="me").execute()
         print("✅ Trash emptied. Storage will update within a few minutes.")
         send_report(
             DIGEST_EMAIL,
