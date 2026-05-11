@@ -181,7 +181,12 @@ def main():
     # ── Mode 3: Empty Trash ───────────────────────────────────────────────────
     if args.empty_trash:
         print("🗑️  Emptying Gmail Trash...")
-        service.users().trash().empty(userId="me").execute()
+trash_ids = get_all_ids(service, "in:trash")
+if trash_ids:
+    for i in range(0, len(trash_ids), 1000):
+        chunk = trash_ids[i:i+1000]
+        service.users().messages().batchDelete(userId="me", body={"ids": chunk}).execute()
+print(f"✅ {len(trash_ids)} emails permanently deleted.")
         print("✅ Trash emptied. Storage will update within a few minutes.")
         send_report(
             DIGEST_EMAIL,
