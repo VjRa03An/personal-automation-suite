@@ -1,0 +1,63 @@
+name: Gmail Auto-Delete
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: true
+        default: 'dry-run'
+        type: choice
+        options:
+          - dry-run
+          - confirm-delete
+          - empty-trash
+
+jobs:
+  auto-delete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install google-auth google-auth-oauthlib google-api-python-client
+
+      - name: Write Gmail token
+        run: echo '${{ secrets.GMAIL_TOKEN_JSON }}' > gmail-cleanup/token.json
+
+      - name: Dry run (scan + email report)
+        if: github.event.inputs.mode == 'dry-run'
+        env:
+          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
+          SMTP_USER:    ${{ secrets.SMTP_USER }}
+          SMTP_PASS:    ${{ secrets.SMTP_PASS }}
+          SMTP_HOST:    "smtp.gmail.com"
+          SMTP_PORT:    "587"
+        run: cd gmail-cleanup && python auto_delete.py
+
+      - name: Confirm delete (move to Trash)
+        if: github.event.inputs.mode == 'confirm-delete'
+        env:
+          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
+          SMTP_USER:    ${{ secrets.SMTP_USER }}
+          SMTP_PASS:    ${{ secrets.SMTP_PASS }}
+          SMTP_HOST:    "smtp.gmail.com"
+          SMTP_PORT:    "587"
+        run: cd gmail-cleanup && python auto_delete.py --confirm-delete
+
+      - name: Empty trash (permanent delete)
+        if: github.event.inputs.mode == 'empty-trash'
+        env:
+          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
+          SMTP_USER:    ${{ secrets.SMTP_USER }}
+          SMTP_PASS:    ${{ secrets.SMTP_PASS }}
+          SMTP_HOST:    "smtp.gmail.com"
+          SMTP_PORT:    "587"
+        run: cd gmail-cleanup && python auto_delete.py --empty-trash
