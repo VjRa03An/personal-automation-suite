@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          find . -name "digest_log.json" -exec cp {} digest_log.json \;
-          git add digest_log.json
+   
+          git add gmail-cleanup/digest_log.json
           git diff --staged --quiet || git commit -m "Update digest_log.json [skip ci]"
           git push
