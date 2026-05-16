@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 15 * * 1-5'  # 8am PT, weekdays
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   send-digest:
