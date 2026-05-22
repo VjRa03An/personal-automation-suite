@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#0a0a0a"/>
+  <path d="M256 96 l38 76 h82 l-66 54 26 82L256 264l-80 44 26-82-66-54h82z" fill="#c8f542"/>
+  <text x="256" y="432" font-family="system-ui,sans-serif" font-size="48" font-weight="800" text-anchor="middle" fill="#c8f542" letter-spacing="10">GAS</text>
+</svg>
