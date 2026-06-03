@@ -1,177 +1,227 @@
 {
-  "date": "June 02, 2026",
-  "emails_processed": 19,
-  "unique_jobs": 17,
+  "date": "June 03, 2026",
+  "emails_processed": 27,
+  "unique_jobs": 22,
   "jobs": [
     {
-      "title": "Sr. Business Transformation Manager",
-      "company": "Genesys",
+      "title": "Project Delivery PMO Lead",
+      "company": "Waymo",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Project+Management+Officer&distance=25&geoId=103644278&f_TPR=a1780403063-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4406223761,4410345160,4424008892,4419636841,4422612856,4419648292&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BrIdMyByJQjqRXXhVkhII0w%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=1OjqC1FS-FPIg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15749392844_fmid_91c6x~mpye2vxn~n7&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15749392844_fmid_91c6x~mpye2vxn~n7-null-91c6x~mpye2vxn~n7-null-null&eid=91c6x-mpye2vxn-n7&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYmU2YjQ4OWM5ZDQ0OTkwYTY4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYjU4YjlmMTRiNGQwODc3ZDBhMDFlZTA0NWJhZjY1MDYyMzBiZDRkZTAyZTAyMzFkLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 8
+    },
+    {
+      "title": "Director, Portfolio Management",
+      "company": "Humana",
       "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=Six+Sigma+%24110%2C000&hl=en&from=ja&radius=25&alid=5b68ebe82e7c94f729105567&explvl=SENIOR_LEVEL&tmtk=1jq4nkle3ga4o801&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "url": "https://www.indeed.com/jobs?q=Six+Sigma+%24110%2C000&hl=en&from=ja&radius=25&alid=5b68ebe82e7c94f729105567&explvl=SENIOR_LEVEL&tmtk=1jq78oefoga4o801&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
       "salary": "$110,000",
       "location": null,
-      "date": "Jun 02",
+      "date": "Jun 03",
       "score": 7
     },
     {
-      "title": "Director, Technical Program Manager",
-      "company": "Scale AI",
+      "title": "Vice President, IT Project Management Office",
+      "company": "Trupanion",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Director+Program+Management&distance=25&geoId=106018895&f_TPR=a1780298890-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4422307875,4406082837,4423253516,4410910175,4402013205,4422106456&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bf6XKQZt9ROC7nKZkDPXheA%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=2EI74mao6iOcg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15756334644_fmid_91c6x~mpwucpz9~qx&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15756334644_fmid_91c6x~mpwucpz9~qx-null-91c6x~mpwucpz9~qx-null-null&eid=91c6x-mpwucpz9-qx&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWU2YjM4ZmM2ZDg0MjlmYWM4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjOTM4Yjg0MTRlZWE0ZTY2NDMwM2MzMTgxOTllZmQ2NzRkMGE5ZWNjMjQyYTE1MDcyLDEsMQ%3D%3D",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Director+Program+Management+Office&distance=25&geoId=103644278&f_TPR=a1780403063-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4419568836,4422921239,4396167651,4422672003,4422460299,4422476208&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BNng3FkqTQTeihzW2e8GtoQ%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=0Nh1GwmYgNPIg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15862993068_fmid_91c6x~mpy9skmg~u1&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15862993068_fmid_91c6x~mpy9skmg~u1-null-91c6x~mpy9skmg~u1-null-null&eid=91c6x-mpy9skmg-u1&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYmU3Yjc4YmM4ZDg0MjlmYWI4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYjViMzgwNmFlNGU1ZDUwZjllZDNmMmQzMWI3MTQ2YWJhMDAwYzM4OWIzZWIwZWE3LDEsMQ%3D%3D",
       "salary": null,
       "location": null,
-      "date": "Jun 02",
-      "score": 8
-    },
-    {
-      "title": "Biggest Myth in Experience Management",
-      "company": "Various",
-      "source": "Job Alert",
-      "url": "https://www.linkedin.com/comm/pulse/biggest-myth-experience-management-lynn-hunsaker-ccxp-hxd6c?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_02%3BFdaRgBdsSj2dRLdYTjHbJQ%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=2IyBgqP358Ocg1&trk=eml-email_series_follow_newsletter_02-null-0-read_more_banner_cta_&trkEmail=eml-email_series_follow_newsletter_02-null-0-read_more_banner_cta_-null-91c6x~mpwrr0jz~3e-null-null&eid=91c6x-mpwrr0jz-3e",
-      "salary": null,
-      "location": "Experience Management",
-      "date": "Jun 02",
-      "score": 2
-    },
-    {
-      "title": "Sr. Technical Product Manager, eCommerce",
-      "company": "McKesson",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=Technical+Program+Management&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=6650367c6fb26a51cb78a5e2&tmtk=1jq498l3fh5uh800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
-      "salary": "$136,500 - $227,500",
-      "location": "Dallas",
-      "date": "Jun 02",
-      "score": 7
-    },
-    {
-      "title": "Senior Manager, Strategy PMO",
-      "company": "Visa U.S.A. Inc.",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=operational+excellence&hl=en&from=ja&l=San+Francisco+Bay+Area%2C+CA&radius=25&alid=580d17fa0cf2fcfd0d053c64&tmtk=1jq47u21egbct806&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
-      "salary": "$161,600 - $258,300",
-      "location": "San Francisco Bay Area, CA",
-      "date": "Jun 02",
-      "score": 8
-    },
-    {
-      "title": "Customer Marketing Director - Metabolism",
-      "company": "Genentech",
-      "source": "Indeed",
-      "url": "https://engage.indeed.com/f/a/6Zrpb9FcPBYCSf5FKnuh_A~~/AAR9hBA~/EoCffLOkRuq3VElxRhmTgoKPij5RK8HYx_KyD1FMAqAdCCfng_W7tfcIzR1tHeQEJu_DJKmGks4d_D4fcDE2IvKmO5R4Df",
-      "salary": null,
-      "location": null,
-      "date": "Jun 02",
+      "date": "Jun 03",
       "score": 6
     },
     {
-      "title": "( Bilingual English/Korean) Business Support Specialist",
-      "company": "Linstarsolution corporation",
+      "title": "Senior Manager, User Operations",
+      "company": "Harvey",
       "source": "Indeed",
-      "url": "https://engage.indeed.com/f/a/gXYZ19RCWU4ryKArp-Ssow~~/AAR9hBA~/664IfgSDJnS1NuLcAxkmAk0WKxjaIdLr3-aKCz_ZzS0e-UnLfAq8P4kkhL6Po6RVExQF6BItJKkUzLHK3URdeabgnFwzwM",
-      "salary": null,
-      "location": null,
-      "date": "Jun 02",
-      "score": 3
+      "url": "https://www.indeed.com/jobs?q=operational+excellence&hl=en&from=ja&l=San+Francisco+Bay+Area%2C+CA&radius=25&alid=580d17fa0cf2fcfd0d053c64&tmtk=1jq6s30l4gbct800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$184,000 - $276,000",
+      "location": "San Francisco Bay Area, CA",
+      "date": "Jun 03",
+      "score": 6
     },
     {
-      "title": "\u2615 JPMorgan's overlooked banker found a bigger job elsewhere. Inside the Goldman ",
+      "title": "Director, Strategy/Private Equity",
+      "company": "KPMG",
+      "source": "Indeed",
+      "url": "https://engage.indeed.com/f/a/RNNjSZS6Gf3VsLAWCS8Kdw~~/AAR9hBA~/LB5hm9FeqAkcSbq7KYc3LyWEpWl8Hn7UKzpipC7Ifg3Xw8kgVpfSxwKp04Q38nNwIbkc06Uk2NuUPSQNy30VD70o4NciqS",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 7
+    },
+    {
+      "title": "HR & Payroll Specialist (Workforce Operations & Compliance) Northern California Region River of Life",
+      "company": "River of Life Transportation",
+      "source": "Indeed",
+      "url": "https://engage.indeed.com/f/a/5crzmfVW05bFGb2-U0rdVw~~/AAR9hBA~/yb2VJq-8bwF_UsLusCXX_MLYGr6JYLR3LN6fRlrLTOa2jK8kUyAJi0xw2Ud2rX0S_zdQ_l4Yf_8qVAWeKO-TlJd-dAAbp8",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 2
+    },
+    {
+      "title": "Leadership Technical Program Manager II, Capacity Delivery",
+      "company": "Google",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=Technical+Program+Management&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=6650367c6fb26a51cb78a5e2&tmtk=1jq6jdgn1h5uh800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$192,000 - $278,000",
+      "location": "Dallas",
+      "date": "Jun 03",
+      "score": 8
+    },
+    {
+      "title": "\u2615 Top hedge fund manager was exhausted by his bad employees. Goldman Sachs and M",
       "company": "Various",
       "source": "Job Alert",
-      "url": "https://www.efinancialcareers.co.uk/news/jpmorgan-didnt-make-md?stlt=VTJGc2RHVmtYMThVSHpYNkxIelErRXd6eitlK2d3Z0Q1ekxqMGVicXFtOGRENHNRbURGL3k4d1VTVlRpbDQxNw==&",
-      "salary": "$600",
+      "url": "https://www.efinancialcareers.co.uk/news/simon-sadler-segantii?stlt=VTJGc2RHVmtYMThmOGJBNkhVcnNneHZYSE1WODFjcHcrNDJ3bkJzMG5FVS9jVVlWWDNuTjk3aXI1ZUJ2OGEwUg==&u",
+      "salary": null,
       "location": null,
-      "date": "Jun 02",
-      "score": 2
+      "date": "Jun 03",
+      "score": 1
+    },
+    {
+      "title": "Ladders is hiring a Senior Director, Technical Program Management",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3B6QzviId8TgmFI0UPWy8FPg%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=3eX-0nQg_9Pcg1&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-91c6x~mpxwxky5~jo-null-null&eid=91c6x-mpxwxky5-jo&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWVmYjU4N2M4ZDc0MDk4YWU4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjOWNiZGFhNDFlMmM2Yzc1YjRiZGUwMjA1ZGY1ZGNkNWI1YTFlYTNmOTg0ZmU0ZTI5LDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 6
     },
     {
       "title": "The latest jobs picked for you!",
       "company": "Various",
       "source": "Job Alert",
-      "url": "https://www.efinancialcareers.com/jobs-USA-CA-San_Francisco-Director_of_Product_GrowthAI.id23876799?stlt=VTJGc2RHVmtYMTgyT1lKZEw5M0d2ZDZNdlBNRExJTHEwSmZqeWkxY",
+      "url": "https://www.efinancialcareers.com/jobs-USA-CA-San_Francisco-Director_of_Product_GrowthAI.id23876799?stlt=VTJGc2RHVmtYMTh5Q1FRR0NTdDdUTTZHT2p3YzJ5dVNpYTJTbDA2a",
       "salary": "$340",
       "location": null,
-      "date": "Jun 02",
+      "date": "Jun 03",
       "score": 1
     },
     {
-      "title": "Partner Delivery Advisor Director",
-      "company": "Salesforce",
+      "title": "Engineering Services Director",
+      "company": "JLL",
       "source": "Indeed",
-      "url": "https://engage.indeed.com/f/a/QYOGnpEd_VtE7hn95Om-6Q~~/AAR9hBA~/XIHkhUKvjrwog5qFKs-LGRTSdfJy4gWuEXFyC9lo6P_lDBlvU_QJ9OuYQzrD0GzVnTkxdyPr33APoNhn61TL4tDyMWJNB_",
+      "url": "https://engage.indeed.com/f/a/R8IXtAgvVfrtOgOK7iiL-Q~~/AAR9hBA~/rGTvErIbLDRm9Qr_jC6pBNAwbisJkyAOk_sL6SLNnhRTjW1gHxxGfaK4T0SjR_mLBflrVmTIogpbgUIBJe6up_6HcBCamI",
       "salary": null,
       "location": "San Francisco, CA",
-      "date": "Jun 02",
-      "score": 8
-    },
-    {
-      "title": "Director, Digital Assets Operations",
-      "company": "Fidelity Investments",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=pmo+director&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=69d0b08d865cd75a0cf91193&tmtk=1jq3nujr531db000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
-      "salary": "$103,000 - $211,000",
-      "location": "Dallas",
-      "date": "Jun 02",
+      "date": "Jun 03",
       "score": 7
     },
     {
-      "title": "Senior Technical Program Manager, Google for Education",
-      "company": "Google",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=program+manager&hl=en&from=ja&l=San+Jose%2C+CA&radius=25&alid=5ed30971bd0a702da521cd8b&tmtk=1jq3j22pdg9uv800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
-      "salary": "$192,000 - $278,000",
-      "location": "San Jose, CA",
-      "date": "Jun 02",
-      "score": 9
-    },
-    {
-      "title": "IT PMO Center of Excellence, Global",
-      "company": "Olympus Corporation",
+      "title": "Global Project Portfolio Governance & PMO Leader",
+      "company": "Agilent Technologies",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Project+Management+Officer&distance=25&geoId=103644278&f_TPR=a1780219835-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4400880438,4402771550,4421671099,4421674088,4422596559,4422820255&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BLNCLTp%2F1QQieQVCHHMNjqA%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=1-0dvXqNmqNsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15749392844_fmid_91c6x~mpw38mhx~ap&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15749392844_fmid_91c6x~mpw38mhx~ap-null-91c6x~mpw38mhx~ap-null-null&eid=91c6x-mpw38mhx-ap&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxZGUwYjU4YWNjZDc0Nzk4YWE4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYWNhNzk5NTVjOWM1ZjI0Njg4MWYwZmM5NjE1MzBhMzdhNDZhNzkwOTQxNDVjNjQyLDEsMQ%3D%3D",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Transformation+Director&distance=25&geoId=102095887&f_TPR=a1780306601-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4419951721,4422307875,4421881065,4423253516,4421858564,4422340197&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bt0WwJRLMTL6GBnbqdumxUw%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=2_UIV4mItiPcg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15828685812_fmid_91c6x~mpxsna4c~3t&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15828685812_fmid_91c6x~mpxsna4c~3t-null-91c6x~mpxsna4c~3t-null-null&eid=91c6x-mpxsna4c-3t&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWUwYjA4OGNjZDM0NTlmYTg4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjODE4MjgwN2JlY2VkYzk3MDUxZTNkNTllYWZiYzVmNzAyM2FiNThhYmU1NDBkM2E2LDEsMQ%3D%3D",
       "salary": null,
       "location": null,
-      "date": "Jun 02",
-      "score": 6
+      "date": "Jun 03",
+      "score": 8
+    },
+    {
+      "title": "Manager, Technical Program Management, Workspace GenAI Foundations",
+      "company": "Google",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=program+manager+%24100%2C000&hl=en&from=ja&l=San+Jose%2C+CA&radius=25&alid=5f7f8ce7cb93a5675ab9d224&tmtk=1jq68t4jeg490800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$100,000",
+      "location": "San Jose, CA",
+      "date": "Jun 03",
+      "score": 8
+    },
+    {
+      "title": "pmo director",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.indeed.com/jobs?q=pmo+director&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=69d0b08d865cd75a0cf91193&tmtk=1jq68p8sc31db000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": null,
+      "location": "Dallas",
+      "date": "Jun 03",
+      "score": 3
+    },
+    {
+      "title": "Director, Technical Program Manager",
+      "company": "Scale AI",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Technical+Program+Director&distance=25&geoId=106233382&f_TPR=a1780306601-&f_WT=1%2C3&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4422307875,4406082837,4423253516,4412607099,4422106456,4422189298&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BnDy9RsNGQ3i7u%2Bz1f69%2Fhw%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=0A58140h_pOYg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mpxocyxc~z6&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mpxocyxc~z6-null-91c6x~mpxocyxc~z6-null-null&eid=91c6x-mpxocyxc-z6&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWUxYjM4YmM4ZDk0NDkxYWQ4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYzg5MWU1N2JlMWIxZDM2OTgwNDEzOWZlNDNjNDU0OWQ0Y2EwNTM0YmI3MTViMTBhLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 8
+    },
+    {
+      "title": "Sr. Technical Program Manager",
+      "company": "Bloom Energy",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Senior+Technical+Program+Manager&distance=25&geoId=104119503&f_TPR=a1780306601-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4422156148,4421893539,4419213143,4423276945,4406090584,4410910175&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BV%2BxSzi7NSJmovOjQfDwK8g%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=06LFB98B1xOYg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15766841204_fmid_91c6x~mpxk2myz~64&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15766841204_fmid_91c6x~mpxk2myz~64-null-91c6x~mpxk2myz~64-null-null&eid=91c6x-mpxk2myz-64&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWUxYjQ4ZGM5ZDU0OTlmYTk4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjOWNhNGIyN2JjYmU0ZjI3MzI1MDBiY2Y1M2I2NDk5ODQyZDdkNmNjODA2ZDgzZjYyLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 7
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "AKASA",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Chief+of+Staff&distance=25&geoId=106233382&f_TPR=a1780301296-&f_WT=1%2C3&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4423776807,4418780213,4421687719,4323600268,4423290342,4380805540&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B4j%2BSAGI1SXi1Lc9nut5MGA%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=0oP7Hne3j-OIg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558500_fmid_91c6x~mpxgjbkx~lo&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558500_fmid_91c6x~mpxgjbkx~lo-null-91c6x~mpxgjbkx~lo-null-null&eid=91c6x-mpxgjbkx-lo&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWUyYjA4Y2NjZDc0OTljYWY4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjODQ5NmEyMTJkZmJmYzE2OWVmNjY3MjJjNTliZDBjZjI5YzkwMzUyODkyMTZkZWRkLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 03",
+      "score": 7
     },
     {
       "title": "Program Manager, Strategic Programs",
       "company": "Google",
       "source": "Indeed",
-      "url": "https://www.indeed.com/jobs?q=Six+Sigma+%24110%2C000&hl=en&from=ja&l=Santa+Clara+County%2C+CA&radius=25&alid=5be4e8082e7c2565fafba4af&tmtk=1jq354a9tgbdj800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "url": "https://www.indeed.com/jobs?q=Six+Sigma+%24110%2C000&hl=en&from=ja&l=Santa+Clara+County%2C+CA&radius=25&alid=5be4e8082e7c2565fafba4af&tmtk=1jq5b5358gbdj800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
       "salary": "$110,000",
       "location": "Santa Clara County, CA",
       "date": "Jun 02",
-      "score": 8
+      "score": 7
     },
     {
-      "title": "Sr, Director - Technical Project / Program Management",
-      "company": "Applied Materials",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Technical+Program+Director&distance=25&geoId=106233382&f_TPR=a1780219835-&f_WT=1%2C3&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4406082837,4402746554,4422834175,4418070502,4380655269,4402788021&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BHphn%2F4FbRbiWAhrtZ5JYQQ%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=1D8odkT7RuNsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mpw13h23~pm&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mpw13h23~pm-null-91c6x~mpw13h23~pm-null-null&eid=91c6x-mpw13h23-pm&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxZGUxYjM4NmNjZDg0MDlkYTg4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjZGRjOGU2NGJjM2U3ODY2N2NkMmFkNjNjOWEzMzNlMTVhZWM3YjhiNzg0ZjFlN2ZmLDEsMQ%3D%3D",
-      "salary": null,
-      "location": null,
-      "date": "Jun 02",
-      "score": 8
-    },
-    {
-      "title": "Senior Director, Program & Portfolio Governance",
-      "company": "BeOne Medicines",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Director+Program+Management+Office&distance=25&geoId=103644278&f_TPR=a1780219835-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4422594073,4400880438,4406082837,4421691099,4422596447,4422809038&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BFbznMhMnT36Jfmt6%2Bim3Cw%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=00lgeSCZV9Nsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15862993068_fmid_91c6x~mpw0cgm9~gu&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15862993068_fmid_91c6x~mpw0cgm9~gu-null-91c6x~mpw0cgm9~gu-null-null&eid=91c6x-mpw0cgm9-gu&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxZGUxYjI4OWM4ZDk0MDlhYWQ4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjOTdhMzllNDdmMWQ5ZTA2YzM4YzJlYzYzZjUwMzE3ZmQzY2ZjYTg4YzliZGQxMjk0LDEsMQ%3D%3D",
-      "salary": null,
-      "location": null,
-      "date": "Jun 02",
-      "score": 6
-    },
-    {
-      "title": "\u201cPmo\u201d: Applied Materials",
+      "title": "\u201cDirector, Program Management Office\u201d: Visa",
       "company": "Various",
       "source": "Job Alert",
-      "url": "https://www.linkedin.com/comm/jobs/search-results/?keywords=Pmo&distance=50&f_TPR=a1780219835-&f_SAL=&geoId=104119503&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjEtggIcQS0G7WN5ifs2T0A%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=0NLqSBo_7hNcg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15820498164_fmid_91c6x~mpvw25f5~w2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15820498164_fmid_91c6x~mpvw25f5~w2-null-91c6x~mpvw25f5~w2-null-null&eid=91c6x-mpvw25f5-w2&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxZGUyYmQ4YmM5ZDE0ODkwYWM4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYTE5ZGE2NTVkMWQxZjIwZTdkODEwYjdlMDk3YTVjMTgzMjQ3MzQ3Y2U2NzY4ZTQ4LDEsMQ%3D%3D",
+      "url": "https://www.linkedin.com/comm/jobs/search-results/?keywords=Director%2C+Program+Management+Office&distance=50&f_TPR=a1780306597-&f_JIYN=true&f_SAL=&geoId=104119503&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BMmM%2BH1ssTzO82HSgEBldVw%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=0fkaOOaz_VOsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15905143772_fmid_91c6x~mpx77o8l~c3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15905143772_fmid_91c6x~mpx77o8l~c3-null-91c6x~mpx77o8l~c3-null-null&eid=91c6x-mpx77o8l-c3&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWU0YmM4OWM4ZDg0MDk4YWY4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjZDRhZDhiNDBiMWJiZWIwZTU2NjFhMzkxN2YwYjJhNjYzYTI0Mzk3ZjUzMDQ1MjllLDEsMQ%3D%3D",
       "salary": null,
       "location": null,
       "date": "Jun 02",
-      "score": 3
+      "score": 8
+    },
+    {
+      "title": "\u2615 Today's top news you might have missed...",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.efinancialcareers.co.uk/news/jpmorgan-didnt-make-md?stlt=VTJGc2RHVmtYMThWOWNnY1FqMjhnWVExRGhMbTZwR1NBQUJKbTdhWWVlQSswNDRPTnVkSXBRbHJXWWxveDlDYw==&",
+      "salary": null,
+      "location": null,
+      "date": "Jun 02",
+      "score": 1
+    },
+    {
+      "title": "Latest \u201cTechnical Delivery Lead\u201d jobs you might like \u2014 98% match from Jobright",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://jobright.ai/jobs/info/6a1f11a5dce5db1256d11b6d?utm_source=1025&amp;imp_id=3717566293196336666__digest_job_alert__1780432760131_5146&amp;utm_medium=email",
+      "salary": "$60/hr",
+      "location": null,
+      "date": "Jun 02",
+      "score": 1
+    },
+    {
+      "title": "\u201cPmo\u201d: Waymo",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.linkedin.com/comm/jobs/search-results/?keywords=Pmo&distance=50&f_TPR=a1780306597-&f_SAL=&geoId=104119503&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2oYmmH1XQp2G0nXs0INfSg%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=31YQXkKIW1Osg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15820498164_fmid_91c6x~mpx2xd0w~19&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15820498164_fmid_91c6x~mpx2xd0w~19-null-91c6x~mpx2xd0w~19-null-null&eid=91c6x-mpx2xd0w-19&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxYWU0YjU4YmM5ZDE0MDlhYWE4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYWViNGJlMTZiMmNkZmQ1MTEwOTVhZWIwYWY2Njk4YTEyZTYzNTliMDVlOWZjYWMxLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 02",
+      "score": 5
     }
   ]
 }
