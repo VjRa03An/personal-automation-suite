@@ -39,5 +39,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -f gmail-cleanup/digest_log.json 2>/dev/null || echo "No digest log to save"
+          git add -f gmail-cleanup/seen_jobs.json 2>/dev/null || echo "No seen jobs to save"
           git diff --staged --quiet || git commit -m "Update digest_log.json [skip ci]"
           git push
