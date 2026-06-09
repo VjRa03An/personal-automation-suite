@@ -1,17 +1,157 @@
 {
   "date": "June 09, 2026",
-  "emails_processed": 1,
-  "unique_jobs": 1,
+  "emails_processed": 16,
+  "unique_jobs": 15,
   "jobs": [
     {
-      "title": "AI Process and Productivity Lead",
-      "company": "SentiLink",
+      "title": "Chief of Staff",
+      "company": "Integrated Biosciences",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Transformation+Director&distance=25&geoId=102095887&f_TPR=a1780823491-&f_SAL=&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4385318069,4372015912,4425064949,4425407427,4358589659,4374825531&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B5zQS7F8fR%2BmFRFUuQFAIgA%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=2RrTuNE2O-Xcg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15828685812_fmid_91c6x~mq616fqr~vg&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15828685812_fmid_91c6x~mq616fqr~vg-null-91c6x~mq616fqr~vg-null-null&eid=91c6x-mq616fqr-vg&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxN2UwYjY4OGNjZDg0NzlhYWQ4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjZDQ5MmE2NmVkNmE0YzkwMjZhOWNjMTVlM2RjMDcwN2Q2MTllMWEzMGZjYzZlNjI2LDEsMQ%3D%3D",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Chief+of+Staff&distance=25&geoId=106233382&f_TPR=a1780902741-&f_WT=1%2C3&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4425965208,4425654462,4425287756,4424781870,4425537963,4425529450&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsdQHobb6RvCbi6g2a4reFA%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=3F4Ezj_HjNXYg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558500_fmid_91c6x~mq6ufnrx~9r&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558500_fmid_91c6x~mq6ufnrx~9r-null-91c6x~mq6ufnrx~9r-null-null&eid=91c6x-mq6ufnrx-9r&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDcxZWU1YjU4N2M4ZDk0NTkwYTY4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjODJhNzkyNGNiMGIxZmY0MGI4OWY2MWYxYjM0MzlmNTk3NmRhZjFmYjQyZWNkMzNmLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 09",
+      "score": 6
+    },
+    {
+      "title": "TPM Manager",
+      "company": "Labelbox",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=operational+excellence&hl=en&from=ja&l=San+Francisco+Bay+Area%2C+CA&radius=25&alid=580d17fa0cf2fcfd0d053c64&tmtk=1jqmb9b1ljatn800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$140,000 - $170,000",
+      "location": "San Francisco Bay Area, CA",
+      "date": "Jun 09",
+      "score": 7
+    },
+    {
+      "title": "Senior Director, Business Development \u2013 Americas",
+      "company": "Multek Technology, Inc",
+      "source": "Indeed",
+      "url": "https://engage.indeed.com/f/a/hv8PdXDtYxL-yXeCkS5vbA~~/AAR9hBA~/YNYY0u_JErN2pLigF_UpuwwJz-Un3mn1wE8DU78oECGPKRf7-M3iWXp5YGZBkZ4SnEWT84LxCcNSYz8597MRji9QsdjtLI",
       "salary": null,
       "location": null,
       "date": "Jun 09",
       "score": 5
+    },
+    {
+      "title": "Head of Recruiting Operations",
+      "company": "Okta",
+      "source": "Indeed",
+      "url": "https://engage.indeed.com/f/a/FQRku-TZOQYVPMHkqybPYA~~/AAR9hBA~/m-n6ca9Mpf8GMatX2Q9bRhsNZMu2om2Issqlp00NlzsauwipX0KnBta2Pi3dFbeQS720xcT5f026pH8MEEEca3Oixg8TIq",
+      "salary": null,
+      "location": null,
+      "date": "Jun 09",
+      "score": 6
+    },
+    {
+      "title": "\u2615 The precocious 24 year",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.efinancialcareers.co.uk/news/leopold-aschenbrenner-hedge-fund-24?stlt=VTJGc2RHVmtYMStuU2tQRmd2M3NpeFMzV0duUitpU0s4aHNzcXJHTE1EbDNiZHBPQ053Tk9TQ09I",
+      "salary": "$20",
+      "location": null,
+      "date": "Jun 09",
+      "score": 2
+    },
+    {
+      "title": "Product Manager \u2013 Ad Tech & AI Automation",
+      "company": "Local Hero",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=Technical+Program+Management&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=6650367c6fb26a51cb78a5e2&tmtk=1jqluj2fpg2ii800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$100,000 - $135,000",
+      "location": "Dallas",
+      "date": "Jun 09",
+      "score": 4
+    },
+    {
+      "title": "The latest jobs picked for you!",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.efinancialcareers.com/jobs-USA-GA-Atlanta-US_Private_Bank_-_Private_Banker_-_Managing_Director.id24274015?stlt=VTJGc2RHVmtYMTloc0lSSkkxc3libWxhUmh",
+      "salary": "$165",
+      "location": null,
+      "date": "Jun 09",
+      "score": 1
+    },
+    {
+      "title": "Director, Enterprise Application Development (OnBase)",
+      "company": "National Life Insurance Company",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=pmo+director&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=69d0b08d865cd75a0cf91193&tmtk=1jqlt0jgl351t000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$136,875 - $200,750",
+      "location": "Dallas",
+      "date": "Jun 09",
+      "score": 5
+    },
+    {
+      "title": "Clinical Program Manager",
+      "company": "First Place for Youth",
+      "source": "Indeed",
+      "url": "https://engage.indeed.com/f/a/oqN5nZ8Udt_JQYb0eqJ2eA~~/AAR9hBA~/Y7f8svmQSGOXnm4hk9e2rXop4UuKe0sFNsAW33UtlHm7aoVwNEr4pEs73nZ8pc4XNH_9Jn40a7ugR7tu3hFn9fq7UCw8MF",
+      "salary": null,
+      "location": "San Francisco, CA",
+      "date": "Jun 09",
+      "score": 3
+    },
+    {
+      "title": "Sr. Technical Program Manager",
+      "company": "Super Micro Computer",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=program+manager+%24100%2C000&hl=en&from=ja&l=San+Jose%2C+CA&radius=25&alid=5f7f8ce7cb93a5675ab9d224&tmtk=1jqlqn2ufg490800&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$100,000",
+      "location": "San Jose, CA",
+      "date": "Jun 09",
+      "score": 7
+    },
+    {
+      "title": "Project Director - New Implementations role",
+      "company": "Centric Software is available",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3B1q%2Fos%2Fr%2BREagqDZJsJ7L4w%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=28XQJQuZ4hXIg1&trk=eml-jobs_jymbii_digest-null-0-null&trkEmail=eml-jobs_jymbii_digest-null-0-null-null-91c6x~mq6dadp4~ie-null-null&eid=91c6x-mq6dadp4-ie&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxN2VlYjc4ZmM4ZDc0NjlhYTg4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjOGJhMThjMTZlMWNkYzE3NGIyNjFlZmRhYmYwMmQ4NzBkZDE4Nzc2ZWRlMzEwY2E2LDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 09",
+      "score": 5
+    },
+    {
+      "title": "DELIVERY MANAGER L1",
+      "company": "Wipro Limited",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=Process+improvement+Program+manager&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=5f9a4c0b81b9b750effe42ce&tmtk=1jqlmnm3c217h000&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$100,000 - $185,000",
+      "location": "Dallas",
+      "date": "Jun 09",
+      "score": 3
+    },
+    {
+      "title": "Senior Program Manager, Transformation Delivery",
+      "company": "Adobe",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/search?keywords=Technical+Program+Director&distance=25&geoId=106233382&f_TPR=a1780823491-&f_WT=1%2C3&sortBy=R&origin=JOB_ALERT_EMAIL&originToLandingJobPostings=4415480775,4415179877,4374078337,4406814534,4397330427,4314576059&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B7xoAthuiQJieiY6ju53hTQ%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=3W3V16CeuqXsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mq6902kx~22&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15737558508_fmid_91c6x~mq6902kx~22-null-91c6x~mq6902kx~22-null-null&eid=91c6x-mq6902kx-22&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxN2VmYjE4NmNlZDI0Nzk4YWY4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjODBkY2IwNDNkZmUxZTI1ZmFjM2UyNWQyNjRkNjc2NzlkOWZhYWRiYzQwNzhkYjIzLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 09",
+      "score": 8
+    },
+    {
+      "title": "\u201cDirector, Program Management Office\u201d: Qualcomm",
+      "company": "Various",
+      "source": "Job Alert",
+      "url": "https://www.linkedin.com/comm/jobs/search-results/?keywords=Director%2C+Program+Management+Office&distance=50&f_TPR=a1780823491-&f_JIYN=true&f_SAL=&geoId=104119503&origin=SEMANTIC_SEARCH_JOB_ALERT_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Binwau2FQQ0%2BWbQ5srYXaSQ%3D%3D&midToken=AQFbaSf-iHLf9g&midSig=11JyM4ZlExXsg1&trk=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15905143772_fmid_91c6x~mq64pqim~96&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-see_all_jobs_text_ssid_15905143772_fmid_91c6x~mq64pqim~96-null-91c6x~mq64pqim~96-null-null&eid=91c6x-mq64pqim-96&otpToken=MTMwMDFmZTcxYjJlYzljNWJlMmYwMmUyNDYxN2UwYmM4OWM4ZDc0Nzk5YWI4NTZhNzBjMDAxNjc0ZTU4NTRmM2ZjYTA4MzlkNThjYWRhODE1ZmExODM2NTk2ZGI3N2Y2NWFiMjQ5NTkxYWIxZjIwNjNhLDEsMQ%3D%3D",
+      "salary": null,
+      "location": null,
+      "date": "Jun 09",
+      "score": 8
+    },
+    {
+      "title": "Client Executive II",
+      "company": "NTT Ltd",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=Technical+Program+Management&hl=en&from=ja&l=Dallas-Fort+Worth%2C+TX&radius=25&alid=6650367c6fb26a51cb78a5e2&tmtk=1jql6ei5lg2ii806&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&of=1&fr=t",
+      "salary": "$144,000 - $244,000",
+      "location": "Dallas",
+      "date": "Jun 09",
+      "score": 4
     }
   ]
 }
